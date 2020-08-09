@@ -13,6 +13,13 @@ import Header from './components/Header'
 function App() {
   return (
     <div className="App">
+      <Header />
+      <Introduction />
+      <Projects />
+      <Experience />
+      <WorkHistory />
+      <ContactMe />
+      <Footer />
     </div>
   );
 }
